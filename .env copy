@@ -1,0 +1,8 @@
+GEMINI_API_KEY=<your-api-key>
+OPENAI_API_KEY=<your-api-key>
+
+port=5433
+database=postgres
+host=localhost
+user=postgres
+password=password
